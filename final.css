@@ -9,10 +9,14 @@ header{
     float: left;
     margin: 0;
     padding: 5px;
-    width: 100px;
+    width: 15rem;
+    height: 15rem;
 }
 .globe{
-    position: fixed;
+    position: relative;
+    height: 15rem;
+    width: 15rem;
+    align-self: flex-end;
 }
 nav{
     float: right;
