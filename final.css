@@ -3,7 +3,10 @@
     margin: 0 auto;
 }
 header{
-    background-color: rgb(32, 19, 2);
+    background: #5C0B1E;
+background: radial-gradient(circle farthest-corner at center center, #5C0B1E 10%, #FF456A 16%, #47FFAF 36%, #FF69B9 64%, #CF131F 89%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
 }
 .logo{
     float: left;
