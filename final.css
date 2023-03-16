@@ -11,6 +11,9 @@ header{
     padding: 5px;
     width: 100px;
 }
+.globe{
+    position: fixed;
+}
 nav{
     float: right;
 }
