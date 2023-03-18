@@ -114,3 +114,20 @@ h1 {
 .combo{
     display: flex;
 }
+
+.chickens{
+    width: 400px;
+    height: 300px;
+    float: right;
+    margin: 20px;
+}
+.garbage{
+    float: left;
+    margin: 20px;
+}
+.protest{
+    width: 500px;
+    height: 350px;
+    float: right;
+    margin: 20px;
+}
