@@ -131,3 +131,79 @@ h1 {
     float: right;
     margin: 20px;
 }
+.kurt{
+    height: auto;
+    width: 200px;
+    margin: 20px;
+}
+.ovid{
+    height: auto;
+    width: 200px;
+    margin: 20px;
+}
+
+.gandhi{
+    height: auto;
+    width: 200px;
+    margin: 20px;
+}
+.nelson{
+    height: auto;
+    width: 200px;
+    margin: 20px;
+}
+.dorothy{
+    height: auto;
+    width: 200px;
+    margin: 20px;
+}
+.ralph{
+    height: auto;
+    width: 200px;
+    margin: 20px;
+}
+.elie{
+    height: auto;
+    width: 200px;
+    margin: 20px;
+}
+.maya{
+    height: auto;
+    width: 200px;
+    margin: 20px;
+}
+.john{
+    height: auto;
+    width: 200px;
+    margin: 20px;
+}
+.cobain{
+    display: flex;
+}
+.ov{
+    display: flex;
+}
+.mahatma{
+    display: flex;
+}
+.mandela{
+    display: flex;
+}
+.height{
+    display: flex;
+}
+.nader{
+    display: flex;
+}
+.wiesel{
+    display: flex;
+}
+.angelou{
+    display: flex;
+}
+.lewis{
+    display: flex;
+}
+.even{
+    columns: 2;
+}
